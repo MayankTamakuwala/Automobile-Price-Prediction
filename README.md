@@ -2,7 +2,7 @@
 
 The project aims at predicting  the price of the automobile based on the previous data. Based on the engine size, curb weight, horsepower, highway mpg, width, and length of the automobile, the project aims at training the model and testing that model to predict the prices of an automobile.
 
-![image](https://github.com/MayankTamakuwala/MachineLearning-Group-4/blob/main/correlation_matrix.png)
+<img alt="correlation_matrix" src="https://github.com/MayankTamakuwala/MachineLearning-Group-4/blob/main/correlation_matrix.png">
 
 <!-- <img width="760" alt="image" src="https://user-images.githubusercontent.com/62346064/191420949-d1da8b0b-c6a7-4d59-ad9d-1e31e2e9d4c0.png">
 
